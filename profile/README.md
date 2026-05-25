@@ -1,4 +1,4 @@
-# <img src="icon.png" width="29" style="vertical-align:middle;"> Snail Organization
+# Snail Organization
 
 Snail Organization is a small organization that works on some pretty cool projects! 😎
 
